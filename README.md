@@ -6,5 +6,5 @@ Win + R  y despues escribir cmd
 
 ### Comandos
 
-cd
-cls
+* cd
+* cls
