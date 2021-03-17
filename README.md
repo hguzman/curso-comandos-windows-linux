@@ -26,3 +26,4 @@ Win + R  y despues escribir cmd
 6. ifconfig
 7. ping
 8. cp
+9. rm
