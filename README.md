@@ -11,3 +11,6 @@ Win + R  y despues escribir cmd
 * dir
 * mkdir
 * rd
+* copy
+* ipconfig
+* ping 
