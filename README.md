@@ -18,6 +18,8 @@ Win + R  y despues escribir cmd
 
 ### Comandos Linux
 
+Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comandos
+
 1. ls -l
 2. clear
 3. pwd
