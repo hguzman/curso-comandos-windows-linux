@@ -14,3 +14,4 @@ Win + R  y despues escribir cmd
 * copy
 * ipconfig
 * ping 
+* format
