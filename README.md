@@ -18,3 +18,11 @@ Win + R  y despues escribir cmd
 
 ### Comandos Linux
 
+1. ls -l
+2. clear
+3. pwd
+4. cd
+5. mkdir
+6. ifconfig
+7. ping
+8. cp
