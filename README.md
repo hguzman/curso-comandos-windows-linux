@@ -8,3 +8,4 @@ Win + R  y despues escribir cmd
 
 * cd
 * cls
+* dir
