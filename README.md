@@ -8,15 +8,15 @@ Win + R  y despues escribir cmd
 
 | Comando | Descripción |
 | :---: | :--- |
-| cd | Cambiar de directorio |
-| cls | Limpia la consola |
-| dir | Lista directorios y archivos|
-| mkdir | Crea una carpeta |
-| rd | Elimina una carpeta |
-| copy | Copia archivo a otra ruta |
-| ipconfig | Dirección IP de la maquina |
-| ping | Confirma conexión con un HOST |
-| format | Formatea un disco duro |
+| `cd` | **Cambiar** de directorio |
+| `cls` | Limpia la consola |
+| `dir` | Lista directorios y archivos|
+| `mkdir` | Crea una carpeta |
+| `rd` | Elimina una carpeta |
+| `copy` | Copia archivo a otra ruta |
+| `ipconfig` | Dirección IP de la maquina |
+| `ping` | Confirma conexión con un HOST |
+| `format` | **Formatea** un disco duro |
 
 
 ### Comandos Linux
