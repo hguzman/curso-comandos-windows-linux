@@ -7,18 +7,17 @@ Win + R  y despues escribir cmd
 ### Comandos Windows
 
 | Comando | Descripción |
-| --- | --- |
+| :---: | :--- |
 | cd | Cambiar de directorio |
+| cls | Limpia la consola |
+| dir | Lista directorios y archivos|
+| mkdir | Crea una carpeta |
+| rd | Elimina una carpeta |
+| copy | Copia archivo a otra ruta |
+| ipconfig | Dirección IP de la maquina |
+| ping | Confirma conexión con un HOST |
+| format | Formatea un disco duro |
 
-1. cd
-2. cls
-3. dir
-4. mkdir
-5. rd
-6. copy
-7. ipconfig
-8. ping
-9. format
 
 ### Comandos Linux
 
