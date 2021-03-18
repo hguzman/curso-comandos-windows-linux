@@ -6,6 +6,10 @@ Win + R  y despues escribir cmd
 
 ### Comandos Windows
 
+| Comando | Descripción |
+| --- | --- |
+| cd | Cambiar de directorio |
+
 1. cd
 2. cls
 3. dir
@@ -13,7 +17,7 @@ Win + R  y despues escribir cmd
 5. rd
 6. copy
 7. ipconfig
-8. ping 
+8. ping
 9. format
 
 ### Comandos Linux
