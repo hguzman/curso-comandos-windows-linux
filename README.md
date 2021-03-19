@@ -27,7 +27,7 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 | :---: | :--- |
 | `rm`| Borra un archivo, si se utiliza con el parametro `rm -r carpeta` se indica que borre de manera recursiva dentro de una carpeta |
 | `ls -l`| Lista las carpetas y archivos dentro del directorio actual |
-| `chmod 755`| Cambia los permisos de un archivo o directorio |
+| `chmod`| Cambia los permisos de un archivo o directorio |
 
 2. clear
 3. pwd
@@ -47,6 +47,7 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 
 
 | Letra | Permiso | Número | Ejemplo |
+| --- | --- | --- | --- |
 | r | Read | 4 | Leer |
 | w | Write | 2 | Escribir |
 | x | Execute | 1 | Ejecutar |
