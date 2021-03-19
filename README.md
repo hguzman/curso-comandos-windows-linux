@@ -47,9 +47,13 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 
 
 | Letra | Permiso | Número | Ejemplo |
-| r | Read | 4 | |
-| w | Write | 2 | |
-| x | Execute | 1 | |
+| r | Read | 4 | Leer |
+| w | Write | 2 | Escribir |
+| x | Execute | 1 | Ejecutar |
 
+### Editores linux por consola
+nano
+vim
+vi
 
 
