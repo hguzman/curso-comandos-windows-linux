@@ -24,7 +24,7 @@ Win + R  y despues escribir cmd
 Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comandos
 
 | Comando | Descricpción |
-| --- | --- |
+| :---: | :--- |
 | `rm`| Borra un archivo, si se utiliza con el parametro `rm -r carpeta` se indica que borre de manera recursiva dentro de una carpeta |
 | `ls -l`| Lista las carpetas y archivos dentro del directorio actual |
 
