@@ -23,7 +23,11 @@ Win + R  y despues escribir cmd
 
 Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comandos
 
-1. ls -l
+| Comando | Descricpción |
+| --- | --- |
+| `rm`| Borra un archivo, si se utiliza con el parametro `rm -r carpeta` se indica que borre de manera recursiva dentro de una carpeta |
+| `ls -l`| Lista las carpetas y archivos dentro del directorio actual |
+
 2. clear
 3. pwd
 4. cd
@@ -31,4 +35,3 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 6. ifconfig
 7. ping
 8. cp
-9. rm
