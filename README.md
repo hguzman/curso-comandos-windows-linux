@@ -25,18 +25,20 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 
 | Comando | Descricpción |
 | :---: | :--- |
-| `rm`| Borra un archivo, si se utiliza con el parametro `rm -r carpeta` se indica que borre de manera recursiva dentro de una carpeta |
+| `cd`| entrar (cd (nombre_del_directorio)) o salir (cd.. ) de un directorio o carpeta |
+| `clear`| Limpia la consola |
 | `ls -l`| Lista las carpetas y archivos dentro del directorio actual |
+| `rm`| Borra un archivo, si se utiliza con el parametro `rm -r carpeta` se indica que borre de manera recursiva dentro de una carpeta |
+| `mkdir`| crea directorios |
+| `rmdir`| Elimina directorios vacios  |
+| `ifconfig`| comando para entrar a la consola |
+| `ping`| muestra el ping o estabilidad de nuestra conexión con un servidor |
 | `chmod`| Cambia los permisos de un archivo o directorio |
-
-2. clear
-3. pwd
-4. cd
-5. mkdir
-6. ifconfig
-7. ping
-8. cp
-
+| `pwd`| ubica la dirección de la capreta en dónde te encuentras |
+| `cp`| copia los directorios |
+| `mv`| mueve los directorios |
+| `locate -i`| busca archivos sin darle importancia a las mayusculas |
+| `wget`| descarga archivos de internet pegando el link |
 
 ### Permisos en sistemas linux
 
@@ -56,5 +58,3 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 nano
 vim
 vi
-
-
