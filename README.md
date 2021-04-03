@@ -55,6 +55,9 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 | x | Execute | 1 | Ejecutar |
 
 ### Editores linux por consola
-nano
-vim
-vi
+* nano
+* vim
+* vi
+* Sublime Text
+* Emacs
+* Gedit
