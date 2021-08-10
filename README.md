@@ -8,7 +8,7 @@ Win + R  y despues escribir cmd
 
 | Comando | Descripción |
 | :---: | :--- |
-| `cd` | **Cambiar** de directorio |
+| `cd` y `cd ..` | **Cambiar** de directorio |
 | `cls` | Limpia la consola |
 | `dir` | Lista directorios y archivos|
 | `mkdir` | Crea una carpeta |
@@ -28,14 +28,13 @@ Puede usar la pagina https://cocalc.com/doc/terminal.html para probar los comand
 | `rm`| Borra un archivo, si se utiliza con el parametro `rm -r carpeta` se indica que borre de manera recursiva dentro de una carpeta |
 | `ls -l`| Lista las carpetas y archivos dentro del directorio actual |
 | `chmod`| Cambia los permisos de un archivo o directorio |
-
-2. clear
-3. pwd
-4. cd
-5. mkdir
-6. ifconfig
-7. ping
-8. cp
+| `clear`| Limpia la pantalla |
+| `pwd`| Muestra la ruta actual |
+| `cd` y `cd ..`| **Cambiar** de directorio |
+| `mkdir <directorio`| Crea un nuevo directoria en la actual ruta |
+| `ifconfig`| Muestra la configuración IP |
+| `ping`| Verifica el estado de una conexión |
+| `cp`| Copia un archivo o carpeta
 
 
 ### Permisos en sistemas linux
